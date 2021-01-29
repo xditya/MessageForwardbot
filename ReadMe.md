@@ -16,11 +16,12 @@ Add them to the environment vars.
 <details>
 <summary>Local Deoploys</summary>
 <br>
-Make a `.env` file in the root of the repo, like `.env.sample` and fill in the values.   
+Make a ".env" file in the root of the repo, like ".env.sample" and fill in the values.   
 </details>
+
 # Usage
-Add me to both the groups first...
-Use `/frwd <to group id/username> <message/reply to message>` to forward the message to that group.
+Add me to both the groups first...   
+Use "/frwd <to group id/username> <message/reply to message>" to forward the message to that group.
 
 # Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
