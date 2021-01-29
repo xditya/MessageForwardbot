@@ -1,3 +1,7 @@
+# By @xditya 
+# https://github.com/xditya
+# https://t.me/xditya
+
 import logging
 import asyncio
 from telethon import TelegramClient, events
