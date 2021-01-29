@@ -25,5 +25,5 @@ Use "/frwd <to group id/username> <message/reply to message>" to forward the mes
 
 # Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [xditya](https://github.com/xditya), for the stoopid codes.
+> [xditya](https://github.com/xditya), for the stoopid codes.   
 > [@TerrorAK](https://t.me/TerrorAK), for this idea.   
